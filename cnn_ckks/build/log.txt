@@ -1,0 +1,55 @@
+/
+| Encryption parameters :
+|   scheme: CKKS
+|   poly_modulus_degree: 65536
+|   CoeffModulus::MaxBitCount: 1792
+|   coeff_modulus size: 1552 (51 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51) bits
+\
+Generating Optimal Minimax Polynomials...
+Adding Bootstrapping Keys...
+/
+| Encryption parameters :
+|   scheme: CKKS
+|   poly_modulus_degree: 65536
+|   CoeffModulus::MaxBitCount: 1792
+|   coeff_modulus size: 1552 (51 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51) bits
+\
+Generating Optimal Minimax Polynomials...
+Adding Bootstrapping Keys...
+/
+| Encryption parameters :
+|   scheme: CKKS
+|   poly_modulus_degree: 65536
+|   CoeffModulus::MaxBitCount: 1792
+|   coeff_modulus size: 1552 (51 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51) bits
+\
+Generating Optimal Minimax Polynomials...
+Adding Bootstrapping Keys...
+Setting Parameters
+/
+| Encryption parameters :
+|   scheme: CKKS
+|   poly_modulus_degree: 65536
+|   CoeffModulus::MaxBitCount: 1792
+|   coeff_modulus size: 1552 (51 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51) bits
+\
+Generating Optimal Minimax Polynomials...
+Adding Bootstrapping Keys...
+gal_steps_vector:
+ 
+________________
+create_galois_keys
+Setting Parameters
+/
+| Encryption parameters :
+|   scheme: CKKS
+|   poly_modulus_degree: 65536
+|   CoeffModulus::MaxBitCount: 1792
+|   coeff_modulus size: 1552 (51 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 46 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51 + 51) bits
+\
+Generating Optimal Minimax Polynomials...
+Adding Bootstrapping Keys...
+gal_steps_vector:
+ 
+________________
+create_galois_keys
